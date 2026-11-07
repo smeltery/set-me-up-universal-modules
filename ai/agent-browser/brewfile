@@ -1,0 +1,5 @@
+# Vercel Labs browser automation CLI for AI agents
+brew "agent-browser"
+
+# Optional but recommended: enables `agent-browser record`
+brew "ffmpeg"
